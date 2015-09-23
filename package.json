@@ -42,6 +42,6 @@
   },
   "dependencies": {
     "lodash": "~2.4.1",
-    "verb": "~0.2.3"
+    "verb": "latest"
   }
 }
